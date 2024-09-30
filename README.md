@@ -9,4 +9,4 @@ pasti tetap semangat...
 
 ### belajar three way merge - develop
 
-## perubahan yang dialkukan aderio - main
+## perubahan yang dialkukan aderio - deployment
