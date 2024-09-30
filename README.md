@@ -18,4 +18,22 @@
    ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Fast%20Forward/7.%20Tugas%201.png?raw=true)
 8. Melakukan push pada branch ParentAderio
    ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Fast%20Forward/8.%20Tugas%201.png?raw=true)
-    
+
+### Tugas Three Way Merging
+1. Melakukan clone dari github
+   ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Three%20Way%20Merging/5.%20Tugas%202.png?raw=true)
+2. Melakukan modifikasi pada file README.md di branch main
+   ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Three%20Way%20Merging/5.%20Tugas%202%20VS%20Code.jpg?raw=true)
+3. Commit perubahan yang dialkukan pada branch main
+   ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Three%20Way%20Merging/1.%20Tugas%202.jpg?raw=true)
+4. Membuat branch baru (deployment) lalu checkout atau pindah branch
+   ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Three%20Way%20Merging/3.%20Tugas%202.jpg?raw=true)
+5. Melakukan modifikasi pada file README.md di branch deployment
+    ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Three%20Way%20Merging/6.%20Tugas%202%20VS%20Code.jpg?raw=true)
+6. Melakukan commit dan push pada branch deployment
+    ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Three%20Way%20Merging/4.%20Tugas%202.jpg?raw=true)
+7. Melakukan pull Request
+   ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Three%20Way%20Merging/7.%20Tugas%202.png?raw=true)
+   
+## NOTE:
+Mohon maaf seblumnya kak, saya udah coba berkali-kali pada tugas three way merge namun tidak terjadi conflict dan kedua branch (Main dan Deployment) auto merge.
