@@ -10,7 +10,6 @@
    ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Fast%20Forward%202/9.%20Tugas%201%20(2).jpg?raw=true)
 4. Buat branch baru ChildAderio2, buat perubahan pada file, lalu lakukan commit
    ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Fast%20Forward%202/2.%20Tugas%201%20(2).jpg?raw=true)
-   ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Fast%20Forward%202/6.%20VS%20CODE.png?raw=true)
 5. Lakukan merge antara ParentAderio2 dengan ChildAderio2, lalu lakukan remote dari repository di Github
    ![alt text](https://github.com/SIBKM-07-Java/s2-versioning-git-aderiorend/blob/main/Fast%20Forward%202/3.%20Tugas%201%20(2).jpg?raw=true)
 6. Lakukan push pada branch ParentAderio2
